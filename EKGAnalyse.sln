@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EKGAnalyse", "EKGAnalyse.vcxproj", "{998212EC-4133-4920-894B-FDFE2A429447}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quadrocopter", "..\FizzyFlyArduino\Quadrocopter\Quadrocopter.vcxproj", "{FD33EAF7-39F9-41F0-89E6-0C46191B5144}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{998212EC-4133-4920-894B-FDFE2A429447}.Debug|Win32.ActiveCfg = Debug|Win32
+		{998212EC-4133-4920-894B-FDFE2A429447}.Debug|Win32.Build.0 = Debug|Win32
+		{998212EC-4133-4920-894B-FDFE2A429447}.Release|Win32.ActiveCfg = Release|Win32
+		{998212EC-4133-4920-894B-FDFE2A429447}.Release|Win32.Build.0 = Release|Win32
+		{FD33EAF7-39F9-41F0-89E6-0C46191B5144}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD33EAF7-39F9-41F0-89E6-0C46191B5144}.Debug|Win32.Build.0 = Debug|Win32
+		{FD33EAF7-39F9-41F0-89E6-0C46191B5144}.Release|Win32.ActiveCfg = Release|Win32
+		{FD33EAF7-39F9-41F0-89E6-0C46191B5144}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
